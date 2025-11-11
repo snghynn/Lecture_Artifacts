@@ -1,0 +1,1 @@
+These codes are the results of listening to the professor's lectures during class and reflecting deeply on my own. Each piece of code is voluntarily created to enhance understanding and expand knowledge based on the lecture content.
